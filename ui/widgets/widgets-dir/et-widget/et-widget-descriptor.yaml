@@ -1,0 +1,6 @@
+code: stapi-entando-app4
+titles:
+  en: Strapi Entando Template MF4
+  it: Strapi Entando Template MF4
+group: free
+customUiPath: et-widget.ftl
